@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focused on **Kotlin (JVM) + Spring Boot / Ktor**
 - ⚡ Super stoked about **Kotlin Coroutines!**
-- Although my focus is currently on Backends, I have a lot of experience in a Full Stack capacity, using React / Angular with either Typescript or Javascript.
+- Although currently solely focused on Backends, I have extensive experience in a Full Stack capacity, using React / Angular with either Typescript or Javascript.
 
 <p align="left">
   <img src="https://symbols.getvecta.com/stencil_86/43_kotlin.0ec1601067.png" alt="Kotlin" width="40" height="40"/>
