@@ -20,7 +20,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomrcosta&layout=compact&hide=html" alt="renatomrcosta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomrcosta&layout=compact&hide=html,css,assembly" alt="renatomrcosta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatomrcosta&show_icons=true" alt="renatomrcosta" /></p>
 
