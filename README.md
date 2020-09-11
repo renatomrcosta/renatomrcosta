@@ -20,9 +20,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomrcosta&layout=compact&hide=html,css,assembly" alt="renatomrcosta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomrcosta&layout=compact&hide=html,css,assembly&count_private=true" alt="renatomrcosta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatomrcosta&show_icons=true" alt="renatomrcosta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatomrcosta&show_icons=true&count_private=true" alt="renatomrcosta" /></p>
 
 <p align="center">
 <a href="https://twitter.com/renatomrcosta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="renatomrcosta" height="30" width="30" /></a>
