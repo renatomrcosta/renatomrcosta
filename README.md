@@ -3,21 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomrcosta" alt="renatomrcosta" /> </p>
 
-- 🔭 I’m currently focused on **Kotlin (JVM) + Spring Boot / Ktor**
-- ⚡ Super stoked about **Kotlin Coroutines!**
-- Although currently solely focused on Backends, I have extensive experience in a Full Stack capacity, using React / Angular with either Typescript or Javascript.
+- 🔭 I’m currently focused on **Kotlin (JVM) (Spring Boot / Ktor)** development;
+- Passionate about Kotlin development, **Kotlin Coroutines**, and about preparing and sharing knowledge and getting teammates to learn and grow;
+
+Blog: https://renatomrcosta.github.io/
 
 <p align="left">
-  <img src="https://symbols.getvecta.com/stencil_86/43_kotlin.0ec1601067.png" alt="Kotlin" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" />  
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomrcosta&layout=compact&hide=html,css,assembly&count_private=true" alt="renatomrcosta" /></p>
